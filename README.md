@@ -33,3 +33,16 @@ A sleek and responsive **full-stack E-commerce platform** built with **React**, 
 <p align="center">
   <img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="Ema-John Screenshot" width="800"/>
 </p>
+
+
+# Clone the repository
+git clone https://github.com/amdadislam01/ema-john-simple.git
+
+# Navigate to project directory
+cd ema-john-simple
+
+# Install dependencies
+npm install
+
+# Run the app in development mode
+npm start
