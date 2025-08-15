@@ -27,9 +27,7 @@ A sleek and responsive **full-stack E-commerce platform** built with **React**, 
 
 ##  Screenshots
 
-*(Add your project screenshots here to visually demonstrate key pages like the product list and cart)*
 
-```markdown
 <p align="center">
   <img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="Ema-John Screenshot" width="800"/>
 </p>
