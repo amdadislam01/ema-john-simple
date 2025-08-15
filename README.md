@@ -32,7 +32,7 @@ A sleek and responsive **full-stack E-commerce platform** built with **React**, 
   <img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="Ema-John Screenshot" width="800"/>
 </p>
 
-
+```markdown
 # Clone the repository
 git clone https://github.com/amdadislam01/ema-john-simple.git
 
