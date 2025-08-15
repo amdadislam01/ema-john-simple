@@ -20,7 +20,7 @@ A sleek and responsive **full-stack E-commerce platform** built with **React**, 
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Tech Stack" width="200"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Tech Stack" width="320"/>
 </p>
 
 ---
