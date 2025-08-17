@@ -38,7 +38,7 @@ A modern full-stack shopping solution built with React, offering seamless produc
 ## 🖥 Application Interface
 
 <div align="center">
-  <img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="E-Commerce Dashboard" width="800"/>
+  <img src="https://ik.imagekit.io/yqnbhdlo4/Img/ema-1?updatedAt=1755434366190" alt="E-Commerce Dashboard" width="1000"/>
   <br>
   <em>Clean, product-focused interface with intuitive navigation</em>
 </div>
