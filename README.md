@@ -1,4 +1,4 @@
-# 🛍️ Ema-John E-Commerce Platform
+# 🛍️ Ema-John E-Commerce Platfor
 
 A modern full-stack shopping solution built with React, offering seamless product discovery and cart management with optimized performance.
 
