@@ -41,6 +41,8 @@ A modern full-stack shopping solution built with React, offering seamless produc
   <img src="https://ik.imagekit.io/yqnbhdlo4/Img/ema-1?updatedAt=1755434366190" alt="E-Commerce Dashboard" width="1000"/>
   <br>
   <em>Clean, product-focused interface with intuitive navigation</em>
+  <em>Clean, product Buy Card Interface </em>
+   <img src="https://ik.imagekit.io/yqnbhdlo4/Img/ema-2?updatedAt=1755434364938" alt="E-Commerce Dashboard" width="1000"/>
 </div>
 
 ## 🚀 Getting Started
